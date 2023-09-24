@@ -8,7 +8,7 @@ The Movie Search App is a web application developed using React, CSS, and hooks.
 
 You can access the live version of the app [here](https://mymoviesearch.netlify.app).
 
-![Movie Search App Screenshot](https://example.com/screenshot.png)
+
 
 ## Features
 
