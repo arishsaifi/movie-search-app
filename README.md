@@ -42,7 +42,7 @@ npm start
 Open your web browser and visit http://localhost:3000 to access the Movie Search App locally.
 
 ## Usage
-1. Open the Movie Search App by visiting https://mymoviesearch.netlify.app.
+1. Open the Movie Search App by visiting 
 
 2. In the search bar, enter the title of the movie you want to search for and press Enter or click the Search button.
 
