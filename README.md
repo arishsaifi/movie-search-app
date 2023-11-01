@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/movie-search-app.git
+git clone https://github.com/arishsaifi/movie-search-app.git
 
 cd movie-search-app
 
